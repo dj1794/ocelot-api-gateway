@@ -1,0 +1,31 @@
+{
+    "Routes": [
+      {
+        "DownstreamPathTemplate": "/api/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "host.docker.internal",
+            "Port": 5001
+          }
+        ],
+        "UpstreamPathTemplate": "/api/{version}/o/{everything}",
+        "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE", "Patch", "OPTIONS" ]
+      },
+      {
+        "DownstreamPathTemplate": "/api/{everything}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "host.docker.internal",
+            "Port": 5002
+          }
+        ],
+        "UpstreamPathTemplate": "/api/{version}/p/{everything}",
+        "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE", "Patch", "OPTIONS" ]
+      }
+    ],
+    "GlobalConfiguration":{
+        "BaseUrl":"localhost:5000"
+    }
+}

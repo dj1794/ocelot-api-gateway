@@ -1,0 +1,12 @@
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\obj\Debug\net6.0\RabbitMQSharedLib.csproj.AssemblyReference.cache
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\obj\Debug\net6.0\RabbitMQSharedLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\obj\Debug\net6.0\RabbitMQSharedLib.AssemblyInfoInputs.cache
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\obj\Debug\net6.0\RabbitMQSharedLib.AssemblyInfo.cs
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\obj\Debug\net6.0\RabbitMQSharedLib.csproj.CoreCompileInputs.cache
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\bin\Debug\net6.0\RabbitMQSharedLib.deps.json
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\bin\Debug\net6.0\RabbitMQSharedLib.dll
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\bin\Debug\net6.0\ref\RabbitMQSharedLib.dll
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\bin\Debug\net6.0\RabbitMQSharedLib.pdb
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\obj\Debug\net6.0\RabbitMQSharedLib.dll
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\obj\Debug\net6.0\ref\RabbitMQSharedLib.dll
+D:\Dotnet Training\ApiGateway\RabbitMQSharedLib\obj\Debug\net6.0\RabbitMQSharedLib.pdb
